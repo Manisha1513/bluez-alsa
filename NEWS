@@ -1,8 +1,9 @@
 unreleased
 ==========
 
-- renamed bluealsa-cli to bluealsactl (no backward compatibility)
+- renamed bluealsa to bluealsad (no backward compatibility)
 - renamed bluealsa.conf to org.bluealsa.conf (no backward compatibility)
+- renamed bluealsa-cli to bluealsactl (no backward compatibility)
 - optional support for Android 13 A2DP Opus codec
 
 bluez-alsa v4.2.0 (2024-05-11)
